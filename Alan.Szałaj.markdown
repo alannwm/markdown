@@ -128,13 +128,3 @@ const products = [
 
 ---
 
-## ⚖️ Wymagania szkolne
-
-* Strona działa poprawnie
-* JavaScript obsługuje koszyk
-* Strona jest czytelna
-* Zdjęcia mają atrybut `alt`
-* Projekt edukacyjny (nie komercyjny)
-
----
-
