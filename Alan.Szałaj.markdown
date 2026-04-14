@@ -48,7 +48,7 @@
   * nazwę
   * cenę
   * zdjęcie
-
+ 
 ---
 
 ### 🛒 Koszyk
@@ -57,13 +57,10 @@
 * Wyświetlanie listy produktów
 * Obliczanie sumy ceny
 * Przycisk „Wyczyść koszyk”
-
----
-
-### 🔍 (Opcjonalne)
-
 * Prosta wyszukiwarka (po nazwie)
 * Filtrowanie (np. tylko iPhone)
+* Kody rabatowe
+* Zapamiętywanie koszyka
 
 ---
 
