@@ -31,7 +31,7 @@ Jasne — zrobię Ci **taką samą dokumentację jak Twoja**, ale uproszczoną i
 ### Języki:
 
 * HTML5 – struktura strony
-* CSS3 – wygląd (kolory, układ)
+* CSS – wygląd (kolory, układ)
 * JavaScript – logika aplikacji
 
 ### Narzędzia:
