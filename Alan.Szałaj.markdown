@@ -1,6 +1,3 @@
-Jasne — zrobię Ci **taką samą dokumentację jak Twoja**, ale uproszczoną i idealną dla 1 klasy 👍
-
----
 
 # 📘 Dokumentacja Projektu – „Mini AppleShop” 🍏
 
