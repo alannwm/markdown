@@ -33,9 +33,7 @@
 
 ### Narzędzia:
 
-* Przeglądarka (Chrome / Edge)
-* Edytor kodu (np. VS Code)
-
+* Przeglądarka (Chrome , firefox)
 ---
 
 ## ⚙️ Logika biznesowa
